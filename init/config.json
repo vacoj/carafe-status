@@ -1,0 +1,11 @@
+{
+		"carafes": [
+				{
+						"id": "WooHoo #1",
+						"full_weight": 64,
+						"empty_weight": 16,
+						"gpio": 10,
+						"check_interval": 10
+				}
+		]
+}
