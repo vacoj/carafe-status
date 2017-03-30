@@ -1,6 +1,6 @@
 package main
 
-type Carafe interface {
+type ICarafe interface {
 	Monitor()
 }
 
